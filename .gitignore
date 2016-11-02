@@ -1,9 +1,22 @@
+<<<<<<< HEAD
 tempfile.txt
+=======
+# Comment 
+tempfile.txt
+tempfile2.txt
+>>>>>>> 83d913489252088221226c785dd959b6db9da12e
 .DS_Store
 *.zip
 *.gz
 log/*.log
 log/*.log.[0-9]
 assets/photoshop/
+<<<<<<< HEAD
 asset/videos/
 !asset/videos/tour_*.mp4
+=======
+assets/videos/
+!assets/videos/tour_*.mp4
+
+# question: would log/archive/access.log be ignored? No.
+>>>>>>> 83d913489252088221226c785dd959b6db9da12e
